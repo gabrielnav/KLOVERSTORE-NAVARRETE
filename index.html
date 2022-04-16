@@ -10,6 +10,11 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
       rel="stylesheet"
     />
+<!-- Animate css -->
+<link
+rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
     <!-- Stylesheet -->
     <link rel="stylesheet" href="./stylesheet/style.css" />
   </head>
@@ -90,21 +95,55 @@
         </div>
       </div>
       <section class="home__heroImage">
-        <h1>KLOVER STORE-Tu lugar preferido</h1>
+        <h1  class="animate__animated animate__backInLeft">KLOVER STORE-Tu lugar preferido</h1>
       </section>
       <section class="home__categoriesContainer">
-        <article class="home__category--image" id="category__image1">
+        <article class="home__category--image aumentar" id="category__image1">
           <div class="filter"></div>
           <a href="." class="home__category--link">OTOÑO</a>
         </article>
-        <article class="home__category--image" id="category__image2">
+        <article class="home__category--image aumentar" id="category__image2">
           <div class="filter"></div>
           <a href="." class="home__category--link">URBANO</a>
         </article>
-        <article class="home__category--image" id="category__image3">
+        <article class="home__category--image aumentar" id="category__image3">
           <div class="filter"></div>
           <a href="." class="home__category--link">CUERO</a>
         </article>
+      </section>
+      <section class="carousel" style="--carousel-bg-color:var(--white-alpha-color);">
+        <input type="radio" name="slides" id="slide-1" checked>
+        <input type="radio" name="slides" id="slide-2">
+        <input type="radio" name="slides" id="slide-3">
+        <input type="radio" name="slides" id="slide-4">
+        <ul class="slides">
+            <li class="slide">
+                <blockquote>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque expedita delectus quibusdam asperiores alias culpa ullam similique optio porro, corporis a maxime dolorem atque qui, cumque ipsum, minima aliquam pariatur!</blockquote>
+                <h3 class="text-first-color">NOMBRE DEL CLIENTE</h3>
+                <h6>Cliente</h6>
+            </li>
+            <li class="slide">
+                <blockquote>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque expedita delectus quibusdam asperiores alias culpa ullam similique optio porro, corporis a maxime dolorem atque qui, cumque ipsum, minima aliquam pariatur!</blockquote>
+                <h3 class="text-first-color">NOMBRE DEL CLIENTE</h3>
+                <h6>Cliente</h6>
+            </li>
+            <li class="slide">
+                <blockquote>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque expedita delectus quibusdam asperiores alias culpa ullam similique optio porro, corporis a maxime dolorem atque qui, cumque ipsum, minima aliquam pariatur!</blockquote>
+                <h3 class="text-first-color">NOMBRE DEL CLIENTE</h3>
+                <h6>Cliente</h6>
+            </li>
+            <li class="slide">
+                <blockquote>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque expedita delectus quibusdam asperiores alias culpa ullam similique optio porro, corporis a maxime dolorem atque qui, cumque ipsum, minima aliquam pariatur!</blockquote>
+                <h3 class="text-first-color">NOMBRE DEL CLIENTE</h3>
+                <h6>Cliente</h6>
+            </li>
+        </ul>
+        <aside class="slides-nav">
+            <label for="slide-1" id="dot-1"></label>
+            <label for="slide-2" id="dot-2"></label>
+            <label for="slide-3" id="dot-3"></label>
+            <label for="slide-4" id="dot-4"></label>
+        </aside>
       </section>
     </main>
     <footer>
