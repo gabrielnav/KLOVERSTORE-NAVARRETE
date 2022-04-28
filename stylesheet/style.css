@@ -1,94 +1,17 @@
-
+*{
+  margin: 0;
+  padding: 0;
+}
  
   /* +++++++++++++++++> */
   /* FOOTER */
   /* +++++++++++*/
-  footer {
-    height: 8rem;
-   /*background-color: white;*/
-   background: radial-gradient(ellipse at top, rgb(79, 99, 141), transparent),
-   radial-gradient(ellipse at top, rgb(182, 134, 134), transparent);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
-  }
- footer .footer__menu {
-    width: 100%;
-  }
-  
-  footer .footer__menu ul {
-    display: flex;
-    justify-content: space-evenly;
-    width: 100%;
-  }
-  
-  footer .footer__menu ul li {
-    text-transform: uppercase;
-    font-weight: 600;
-    border-radius: 5px;
-    padding: 0.5rem;
-  }
+ 
   
 
-
-  footer .footer__socialMedia-container {
-    display: flex;
-    justify-content: space-evenly;
-    width: 100%;
-    max-width: 400px;
-    margin: 0 auto;
-  }
-
-  
-  footer .footer__socialMedia-container a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 3rem;
-    width: 4rem;
-    height: 4rem;
-    color: white;
-    background-color: rgb(124, 124, 124);
-    border-radius: 50%;
-    /* transition: color, background-color, transform 0.5s ease-in; */
-  transition: all 0.5s ease-in;
-  }
-  
-  footer .footer__socialMedia-container a:hover {
-    color: rgb(124, 124, 124);
-    background-color: white;
-    transform: scale(1.1) translateY(-5px);
-  }
   /* Media queries */
 
-@media screen and (min-width: 460px) {
-  footer .footer__socialMedia-container a {
-    
-    justify-content: space-evenly;
-    padding: 2rem;font-size: 3rem;
-    width: 4rem;
-    height: 4rem;
-  }
-  .footer__containerf .footer__menu {
-    display: flex;
-    flex-direction: column;
-    height: 700px;
-    justify-content: space-evenly;
-    
-  }
-  .footer__containerf .footer__socialMedia-container a:hover {
-    display: flex;
-    flex-direction: column;
-    height: 700px;
-    justify-content: space-evenly;
-    
-  }
-}
-  /* +++++++++++++++++> */
-  /* FIN FOOTER */
-  /* +++++++++++ */
-  
+
   /* +++++++++++++++++> */
   /* HOME */
   /* +++++++++++ */
@@ -151,7 +74,7 @@
     height: 100%;
     transition: background-color 0.5s ease-in-out;
   }
- */ 
+
   .home__mainContainer
     section.home__categoriesContainer
     .home__category--image
@@ -191,7 +114,7 @@
   /* FIN HOME */
   /* +++++++++++ */
   
-  * +++++++++++++++++> */
+  /* +++++++++++++++++> */
 /* SHOP*/
 /* +++++++++++ */
 
