@@ -82,25 +82,6 @@
     background-color: rgba(0, 0, 0, 0.7);
   }
   
-  .home__mainContainer
-    section.home__categoriesContainer
-    .home__category--image#category__image1 {
-    background-image: url("../assets/images/Mujer4.jpg");
-    background-size: cover;
-  }
-  
-  .home__mainContainer
-    section.home__categoriesContainer
-    .home__category--image#category__image2 {
-    background-image: url("../assets/images/Urbano1.jpg");
-    background-size: cover;
-  }
-  
-  .home__mainContainer
-    section.home__categoriesContainer
-    .home__category--image#category__image3 {
-    background-image: url("../assets/images/Cuero1.jpg");
-    background-size: cover;
   }
   /* Media queries */
 
