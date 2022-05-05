@@ -1,25 +1,25 @@
 footer {
-    height: 8rem;
-   background: radial-gradient(ellipse at top,$color1, transparent),
-   radial-gradient(ellipse at top, $color2, transparent);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
-    .footer__menu {
-        width: 100%;
-       ul {
-        display: flex;
-        justify-content: space-evenly;
-        width: 100%;
-        li {
-            text-transform: uppercase;
-            font-weight: 600;
-            border-radius: 5px;
-            padding: 0.5rem;
-          }
-      }
-    }
+  height: 8rem;
+  background: radial-gradient(ellipse at top,$color1, transparent),
+  radial-gradient(ellipse at top, $color2, transparent);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+   .footer__menu {
+       width: 100%;
+      ul {
+       display: flex;
+       justify-content: space-evenly;
+       width: 100%;
+       li {
+           text-transform: uppercase;
+           font-weight: 600;
+           border-radius: 5px;
+           padding: 0.5rem;
+         }
+     }
+   } 
     .footer__socialMedia-container {
         display: flex;
         justify-content: space-evenly;
