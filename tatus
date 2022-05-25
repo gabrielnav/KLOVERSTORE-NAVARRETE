@@ -1,0 +1,71 @@
+[33mcommit 638fa62b2dfa9e01ceb42d91d9ad4a3b4a0a40bf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: gabrielnav <gabrielnav.j@gmail.com>
+Date:   Sat May 7 21:23:24 2022 -0300
+
+    Correción de linckeo con page Indumentaria
+
+[33mcommit 0cebd330a0fe269fba968323c40803883897aa12[m
+Author: gabrielnav <gabrielnav.j@gmail.com>
+Date:   Sat May 7 21:05:18 2022 -0300
+
+    Corrección de linck para luego de encontrar errores al subir al servidor
+
+[33mcommit 3e7d53b9af3ac7492272b510b64971b2f8aa8ee2[m
+Author: gabrielnav <gabrielnav.j@gmail.com>
+Date:   Wed May 4 23:54:59 2022 -0300
+
+    Agregar MAPS, EXTEND, MIXINS y SEO
+
+[33mcommit c108234b63f03a7b693887e7dc91459073e04c6c[m
+Author: gabrielnav <gabrielnav.j@gmail.com>
+Date:   Sat Apr 30 11:17:34 2022 -0300
+
+    Agregado de linkeo con rutas relativas
+
+[33mcommit d3f74ad0055a805c56d19038a19ac9cd2e812230[m
+Author: gabrielnav <gabrielnav.j@gmail.com>
+Date:   Thu Apr 28 01:23:40 2022 -0300
+
+    Agregado de Sass a una page del proyecto
+
+[33mcommit cc125b8735fd1cb95a38cdd8218aaff255a79f72[m[33m ([m[1;32mfeature-segunda-entrega[m[33m)[m
+Author: gabrielnav <gnavarrete@syntex.local>
+Date:   Sat Apr 23 13:12:26 2022 -0300
+
+    Agregado de link a page en contrucción para segunda entrega
+
+[33mcommit 79d111c6de1e8addd1d15ebf240221b686468043[m
+Author: gabrielnav <gnavarrete@syntex.local>
+Date:   Sat Apr 23 13:08:01 2022 -0300
+
+    Agregado de Bootstrap, CSS, y link pata segunda entrega
+
+[33mcommit 2bc083e0dac42eef53b1cdd05a96608cafa16141[m
+Author: gabrielnav <gnavarrete@syntex.local>
+Date:   Wed Apr 20 23:51:46 2022 -0300
+
+    agregado de bootstrap en todas las pages
+
+[33mcommit b08a72bbb1f7b69f382730220fbdabf9e8163dac[m[33m ([m[1;32mbootstrap[m[33m)[m
+Author: gabrielnav <gnavarrete@syntex.local>
+Date:   Wed Apr 20 23:19:44 2022 -0300
+
+    agregado de bootstrap a page index e indumentaria
+
+[33mcommit e90a337e1f5deb67d933ebedcb6e72414aa7285e[m[33m ([m[1;32mmi_rama[m[33m)[m
+Author: gabrielnav <gnavarrete@syntex.local>
+Date:   Sat Apr 16 18:22:56 2022 -0300
+
+    Agrega animaciones, transformaciones y/o gradientes
+
+[33mcommit 94740a7f32a568ddd17238b480cd3ea39352791d[m
+Author: gabrielnav <gnavarrete@syntex.local>
+Date:   Sat Apr 16 16:31:13 2022 -0300
+
+    Primer archivo de Repositorio
+
+[33mcommit cb4c9292b34d9a65c4c308f3dfeb52888db72a87[m
+Author: gabrielnav <gnavarrete@syntex.local>
+Date:   Sat Apr 16 16:27:04 2022 -0300
+
+    Agrega archivo HTML, CSS, Imagenes
